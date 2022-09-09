@@ -1,1 +1,1 @@
-This project shows how to ingest datat from JSON files to SQLite database using Pyton.
+This project shows how to ingest data from JSON files to SQLite database using Pyton.
